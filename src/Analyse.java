@@ -20,6 +20,7 @@ public class Analyse {
 		System.out.println("fail= "   +fail);
 		if (pass>=8) {
 			System.out.println("Bonus for instructor!");
+			//what change?
 		}
 
 	}
