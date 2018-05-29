@@ -16,7 +16,7 @@ public class drawPannel {
 		
 		application.setSize(757,780);
 		
-		application.setVisible(true);
+		application.setVisible(true); //change
 		
 	}
 }

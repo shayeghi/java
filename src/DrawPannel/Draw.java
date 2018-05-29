@@ -23,6 +23,7 @@ public class Draw extends JPanel{
 		for (int i = height; i >= 0; i-=20) {
 			System.out.println(i);
 			g.drawLine(0	,i,i, width);
+			//CHNAGE 
 			
 		}
 		
