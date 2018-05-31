@@ -18,6 +18,11 @@ public class Main {
 		System.out.println(1+2*3);
 		System.out.println(b++);
 		System.out.println(b);
+		int i =1;
+		while (i<=10) {
+			++i;
+			System.out.println(i);
+		}
 		
 		
 	}

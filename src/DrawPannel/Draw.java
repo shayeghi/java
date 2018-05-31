@@ -16,7 +16,9 @@ public class Draw extends JPanel{
 		int height = getHeight();
 	
 		for (int i = width; i >= 0; i-=20) {
+			
 			System.out.println(i);
+			
 			g.drawLine(i,0,height, i);
 			
 		}
