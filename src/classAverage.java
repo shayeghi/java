@@ -6,7 +6,7 @@ public class classAverage {
 		int counter = 0;
 		int quit = 0 ;
 		double average;
-		
+		//rest
 		while (quit != -1) {
 			Scanner input  = new Scanner(System.in) ;
 			System.out.println("give me "+ ++counter +" student grade or quit for -1 :");
